@@ -1,0 +1,11 @@
+adx_authenticationrequired: false
+adx_editexistingrecordpermitted: true
+adx_multiplerecordsperuserpermitted: true
+adx_name: Multistep form 1
+adx_progressindicatorenabled: true
+adx_progressindicatorignorelaststep: false
+adx_progressindicatorprependstepnum: false
+adx_savechangeswarningonclose: false
+adx_startnewsessiononload: false
+adx_startstep: 78369cad-48ab-4ee4-ad39-9413c109a8d5
+adx_webformid: 27baf460-0bf1-469a-8c56-01fc44d27774

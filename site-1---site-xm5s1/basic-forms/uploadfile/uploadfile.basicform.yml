@@ -1,0 +1,67 @@
+adx_appendquerystring: true
+adx_associatecurrentportaluser: true
+adx_attachfile: false
+adx_attachfileallowmultiple: true
+adx_attachfilelabel: >-
+  [
+
+    {
+
+      "LCID": 1033,
+
+      "Value": ""
+
+    }
+
+  ]
+adx_attachfilerequired: false
+adx_attachfilerestrictaccept: false
+adx_attachfilesaveoption: 756150000
+adx_attachfilestoragelocation: 756150000
+adx_autogeneratesteps: false
+adx_captcharequired: false
+adx_entityformid: bd8aac83-4167-408a-8a6a-67c52f0f748b
+adx_entityname: cra26_uploadfile
+adx_entitypermissionsenabled: true
+adx_entitysourcetype: 756150001
+adx_forceallfieldsrequired: false
+adx_formname: Information
+adx_geolocation_displaymap: false
+adx_geolocation_enabled: false
+adx_hideformonsuccess: true
+adx_mode: 100000001
+adx_name: uploadfile
+adx_onsuccess: 756150001
+adx_populatereferenceentitylookupfield: false
+adx_portaluserlookupattributeisactivityparty: false
+adx_recommendedfieldsrequired: false
+adx_recordidquerystringparametername: id
+adx_recordsourceallowcreateonnull: true
+adx_redirecturlappendentityidquerystring: true
+adx_redirecturlquerystringname: id
+adx_redirectwebpage: 25e38208-d199-a4a7-9899-d668f23f55e0
+adx_referenceentityshowreadonlyform: false
+adx_referencequerystringisprimarykey: true
+adx_renderwebresourcesinline: false
+adx_setentityreference: false
+adx_showcaptchaforauthenticatedusers: false
+adx_showownerfields: false
+adx_showunsupportedfields: false
+adx_successmessage: >-
+  [
+
+    {
+
+      "LCID": 1033,
+
+      "Value": ""
+
+    }
+
+  ]
+adx_tabname: General
+adx_targetentityportaluserlookupattribute: createdby
+adx_tooltipenabled: false
+adx_validationsummarylinksenabled: true
+statecode: 1
+statuscode: 2

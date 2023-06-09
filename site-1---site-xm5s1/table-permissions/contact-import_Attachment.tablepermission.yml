@@ -1,0 +1,13 @@
+adx_append: true
+adx_appendto: false
+adx_create: true
+adx_delete: false
+adx_entitylogicalname: annotation
+adx_entityname: contact-import_Attachment
+adx_entitypermission_webrole: []
+adx_entitypermissionid: fb1072c8-e784-ed11-81ad-000d3a856d9f
+adx_parententitypermission: c400a9c9-e784-ed11-81ad-000d3a85c9c7
+adx_parentrelationship: cra26_importfile_Annotations
+adx_read: false
+adx_scope: 756150003
+adx_write: false
